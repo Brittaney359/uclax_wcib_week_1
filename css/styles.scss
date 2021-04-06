@@ -1,5 +1,5 @@
-$background-color: rgb( 0, 255, 255 );
-$text-color: rgb( 200, 200, 200 );
+$background-color: rgb(170, 240, 255 );
+$text-color: rgb( 153, 153, 153 );
 
 body {
   color: $text-color;
@@ -14,19 +14,19 @@ body {
   h1 {
     color: $text-color;
     margin-top: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 35px;
   }
 
   h2 {
     color: $text-color;
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 25px;
   }
 
   h3 {
     color: $text-color;
-    margin-top: 10px;
-    margin-bottom: 0px;
+    margin-top: 25px;
+    margin-bottom:15px;
   }
 
   p {
@@ -46,6 +46,6 @@ body {
   }
 
   img {
-    border-radius: 0px;
+    border-radius: 380px;
   }
 }
